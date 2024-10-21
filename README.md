@@ -5,11 +5,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jienniers&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
   <br>
-  <img style="border-radius:50px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jienniers&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=5&theme=algolia&hide_border=true&order=2" height="169" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jienniers&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="169" alt="languages graph"  />
 </div>
 
 ###
-<div align="cemter" style="text-align: center">
+
+<div align="center" style="border-color:white">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -37,7 +38,7 @@
 
 ###
 
-<img align="center" style="border-radius:5%" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQycXNuc2hzYnd5eW10aGRuN3g3NXZ3NHk2a2I2b2V6bTdyamM2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HyOOyynWxMxig/giphy.gif"  />
+<img align="center" style="border-radius:5%" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQycXNuc2hzYnd5eW10aGRuN3g3NXZ3NHk2a2I2b2V6bTdyamM2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HyOOyynWxMxig/giphy.gif"  />
 
 ###
 
