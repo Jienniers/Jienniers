@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer who loves clean code and creative solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;I+love+clean+code;Full-stack+developer+in+progress...;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+clean+code;Full-stack+developer+in+progress...;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
 ---
