@@ -40,4 +40,4 @@
 ### ⚡ Fun Fact
 
 - I enjoy building projects just for the thrill of making things work ⚙️  
-- Currently exploring system design and scalable architectures 📈
+- Currently exploring Artificial intelligence/Machine Learning 🧠
