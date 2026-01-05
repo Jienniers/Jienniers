@@ -24,7 +24,7 @@
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -37,7 +37,4 @@
 
 ---
 
-### ⚡ Fun Fact
-
-- I enjoy building projects just for the thrill of making things work ⚙️  
-- Currently exploring Artificial intelligence/Machine Learning 🧠
+-->
