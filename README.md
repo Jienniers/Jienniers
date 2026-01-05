@@ -20,7 +20,17 @@
 ### 🧠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,js,nodejs,flask,mongodb,html,css,git,github,vscode,intellij" />
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,js,nodejs,flask" />
+  
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite,mongodb" />
+  
+  <!-- Tools / DevOps -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,netlify,vscode,intellij" />
 </p>
 
 ---
