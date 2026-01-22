@@ -42,7 +42,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jienniers&show_icons=true&theme=tokyonight" alt="stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jienniers&theme=tokyonight" alt="streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jienniers&theme=tokyonight" alt="streak" /> -->
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jienniers&layout=compact&theme=tokyonight" alt="langs" />
 </p>
