@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 [//]: <- 🌱 I’m currently interested in **Artificial intelligence/Machine Learning**>
-- 📫 How to reach me **gemeni159@proton.me**
+  <!--  - 📫 How to reach me **gemeni159@proton.me** -->
 - 👯 I’m looking to collaborate on **Open Source / Projects / Startups**
 - 🧠 I'm currently exploring **AI and machine learning applications**
 - ⚡ Fun fact: **I once spent hours fixing a bug... that was a typo.**
